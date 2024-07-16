@@ -1,2 +1,2 @@
 # BIA_Projects_TripleTen
-Projects completed through Triple Ten Business Intelligence Analyst bootcamo certificate 2024
+Projects completed through Triple Ten Business Intelligence Analyst bootcamp certificate 2024
